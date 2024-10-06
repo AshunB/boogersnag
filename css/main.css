@@ -1,19 +1,18 @@
 body {
-    background-photo: url=("\assets\img\boogboogtwerk.gif")
+    background-image: url("/assets/img/boogboogtwerk.gif");
     background-size: cover;
     background-position: center;
     text-align: center;
-    items-align: center;
     margin: 16px;
     padding: 10px;
 }
 
 h1 {
-    font-style: "Comic Sans MS", serif;
+    font-family: "Comic Sans MS", serif;
     font-weight: bold;
 }
 
 .list {
     text-align: left;
-    margin 32px;
+    margin: 32px;
 }
